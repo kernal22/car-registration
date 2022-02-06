@@ -1,0 +1,46 @@
+.container {
+  box-shadow: 0 0 10px #000;
+  margin-top: 10px;
+}
+
+form {
+  transform: none !important;
+  padding: 50px 0px 50px 0px !important;
+}
+
+.heading {
+  text-align: center;
+  display: block;
+}
+
+.panel-heading {
+  padding-top: 20px;
+}
+
+#wrapper_2 {
+  border-left: 1px solid;
+  text-align: center;
+}
+
+#wrapper_2 .form-group {
+  /* padding-top: 15px; */
+}
+
+.errors {
+  color: #db1c1c;
+  padding: 22px 0px 0px 5px;
+}
+
+.value {
+  padding-left: 10px;
+}
+
+.sketch-picker {
+  width: 30% !important;
+}
+
+.colorBox {
+  width: 30%;
+  height: 20px;
+  margin-top: 10px;
+}
